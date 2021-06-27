@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuentinJian
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning algortihms
+- 🌱 I’m currently learning python + machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
