@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @QuentinJian
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning python + machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in a robotics and mobile developement
+- 🌱 I’m currently learning embedding + machine learning
+- 💞️ I’m looking to collaborate on open source projects related to robotics
+
+
 
 <!---
 QuentinJian/QuentinJian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
