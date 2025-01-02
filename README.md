@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuentinJian
 - 👀 I’m interested in a robotics and mobile developement
-- 🌱 I’m currently learning embedding + machine learning
+- 🌱 I’m currently learning embedded + machine learning
 - 💞️ I’m looking to collaborate on open source projects related to robotics
 
 
