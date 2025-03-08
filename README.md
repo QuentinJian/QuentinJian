@@ -2,6 +2,8 @@
 - 👀 I’m interested in a robotics and mobile developement
 - 🌱 I’m currently learning embedded + machine learning
 - 💞️ I’m looking to collaborate on open source projects related to robotics
+
+  
 This github is used mainly to store random ideas and some quick and dirty codes
 Occassionally I'll put a finished sideproject on here
 
